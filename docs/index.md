@@ -7,8 +7,13 @@ Ce site regroupe les informations essentielles pour les utilisateurs du serveur 
 
 <div markdown=1 id="menu_lateral">
 - [Inscription](#inscription)
+- [Modération](#modération)
 </div>
 
 ## Inscription
 
 Essai
+
+## Modération
+
+... Ddqd
