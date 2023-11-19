@@ -1,5 +1,7 @@
 layout: page
+---
 title: "FAQ du site riin.fr"
+---
 permalink: /
 
 # Communauté de la réponse aux incidents & de l'investigation numérique
