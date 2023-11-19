@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "FAQ du site riin.fr"
 ---
 
